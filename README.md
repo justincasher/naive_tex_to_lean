@@ -1,6 +1,6 @@
 # naive_tex_to_lean
 
-A tool that takes a LaTeX file (.tex) as input and produces a text file (.txt) containing the document body, translated into syntax resembling the Lean Theorem Prover.
+A tool that takes a LaTeX file (.tex) as input and produces a text file (.txt) containing the document body, translated into syntax resembling Lean.
 
 ## Usage
 
